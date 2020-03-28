@@ -13,10 +13,11 @@ body {
 
 header {
   text-align: center;
+  border-bottom: 1px dashed #fff;
 }
 
 footer {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #fff;
   padding-top: 1rem;
   font-size: 1rem;
 }
